@@ -10,6 +10,11 @@
  <img src="https://github.com/user-attachments/assets/e3d6401b-625b-4494-ac2f-3915400ce33a" alt="Image 1" style="margin-right: 10px; margin-bottom: 10px;" width="30%"> 
  <img src="https://github.com/user-attachments/assets/d52fd908-4a96-4cc3-ac50-1ed8da2da74d" alt="Image 1" style="margin-right: 10px; margin-bottom: 10px;"width="30%"> 
   </p>
+<p>
+<img src="https://github.com/user-attachments/assets/077cb843-52c9-409e-83a1-ade13fec08ee" alt="Image 1" style="margin-right: 10px; margin-bottom: 10px;" width="30%"> 
+ <img src="https://github.com/user-attachments/assets/01da3b96-d587-4272-9fa8-9fd42d3fcf4f" alt="Image 1" style="margin-right: 10px; margin-bottom: 10px;" width="30%"> 
+ <img src="https://github.com/user-attachments/assets/bdd873c8-0d32-44ef-98be-568ccbc24014" alt="Image 1" style="margin-right: 10px; margin-bottom: 10px;"width="30%"> 
+  </p>
 
 # Home Learning Academy 🎓
 
