@@ -1,4 +1,17 @@
 # Home Learning Academy 🎓
+# Student Portal 🎓
+<p>
+<img src="https://github.com/user-attachments/assets/eb94ca2f-4130-4aec-a437-b55b1d323e7f" alt="Image 1" style="margin-right: 10px; margin-bottom: 10px;" width="30%"> 
+ <img src="https://github.com/user-attachments/assets/a1c21597-b4e1-4fea-bee8-2fee6cd0c950" alt="Image 1" style="margin-right: 10px; margin-bottom: 10px;" width="30%"> 
+ <img src="https://github.com/user-attachments/assets/9f045295-3df6-410b-8e53-74262c969f9d" alt="Image 1" style="margin-right: 10px; margin-bottom: 10px;"width="30%"> 
+  </p>
+<p>
+<img src="https://github.com/user-attachments/assets/fb458395-e9ba-4d2d-9aca-84b16060a471" alt="Image 1" style="margin-right: 10px; margin-bottom: 10px;" width="30%"> 
+ <img src="https://github.com/user-attachments/assets/e3d6401b-625b-4494-ac2f-3915400ce33a" alt="Image 1" style="margin-right: 10px; margin-bottom: 10px;" width="30%"> 
+ <img src="https://github.com/user-attachments/assets/d52fd908-4a96-4cc3-ac50-1ed8da2da74d" alt="Image 1" style="margin-right: 10px; margin-bottom: 10px;"width="30%"> 
+  </p>
+
+# Home Learning Academy 🎓
 
 Home Learning Academy is a comprehensive platform designed to enhance the learning experience by connecting students, teachers, parents, and administrators. This app offers robust management of educational activities, schedules, progress tracking, and communication, ensuring a seamless education system.
 
