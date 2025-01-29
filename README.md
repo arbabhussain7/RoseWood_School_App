@@ -15,7 +15,8 @@
  <img src="https://github.com/user-attachments/assets/01da3b96-d587-4272-9fa8-9fd42d3fcf4f" alt="Image 1" style="margin-right: 10px; margin-bottom: 10px;" width="30%"> 
  <img src="https://github.com/user-attachments/assets/bdd873c8-0d32-44ef-98be-568ccbc24014" alt="Image 1" style="margin-right: 10px; margin-bottom: 10px;"width="30%"> 
   </p>
- # Teacher Portal
+  
+ # Teacher Portal 🎓
 
 <p>
 <img src="https://github.com/user-attachments/assets/2fda40cf-c1bb-4edf-b34c-f3d5bed760b0" alt="Image 1" style="margin-right: 10px; margin-bottom: 10px;" width="30%"> 
