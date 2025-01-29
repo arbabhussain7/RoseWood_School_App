@@ -61,14 +61,6 @@
  <img src="https://github.com/user-attachments/assets/8fc8b4fb-0492-4c3f-82e3-01af7c344417" alt="Image 1" style="margin-right: 10px; margin-bottom: 10px;" width="30%"> 
  <img src="https://github.com/user-attachments/assets/4b421fb8-218d-4bdb-979b-28e590e0941e" alt="Image 1" style="margin-right: 10px; margin-bottom: 10px;"width="30%"> 
   </p>
-<p>
-<img src="https://github.com/user-attachments/assets/e394cfd1-50d1-46ae-a95e-7f5a691ceaa1" alt="Image 1" style="margin-right: 10px; margin-bottom: 10px;" width="30%"> 
- <img src="https://github.com/user-attachments/assets/8fc8b4fb-0492-4c3f-82e3-01af7c344417" alt="Image 1" style="margin-right: 10px; margin-bottom: 10px;" width="30%"> 
- <img src="https://github.com/user-attachments/assets/4b421fb8-218d-4bdb-979b-28e590e0941e" alt="Image 1" style="margin-right: 10px; margin-bottom: 10px;"width="30%"> 
-  </p>
-
-
-
 
 # Home Learning Academy 🎓
 
