@@ -18,6 +18,8 @@
   
  # Teacher Portal 🎓
 
+
+
 <p>
 <img src="https://github.com/user-attachments/assets/2fda40cf-c1bb-4edf-b34c-f3d5bed760b0" alt="Image 1" style="margin-right: 10px; margin-bottom: 10px;" width="30%"> 
  <img src="https://github.com/user-attachments/assets/7e7d250c-66f0-4ff0-b5f5-4d88c91238c4" alt="Image 1" style="margin-right: 10px; margin-bottom: 10px;" width="30%"> 
