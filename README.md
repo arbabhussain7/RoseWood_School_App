@@ -61,6 +61,19 @@
  <img src="https://github.com/user-attachments/assets/8fc8b4fb-0492-4c3f-82e3-01af7c344417" alt="Image 1" style="margin-right: 10px; margin-bottom: 10px;" width="30%"> 
  <img src="https://github.com/user-attachments/assets/4b421fb8-218d-4bdb-979b-28e590e0941e" alt="Image 1" style="margin-right: 10px; margin-bottom: 10px;"width="30%"> 
   </p>
+  
+ # Parent's Portal 🎓
+
+<p>
+<img src="https://github.com/user-attachments/assets/fc4734b1-1b75-496b-a592-7a69e830790e" alt="Image 1" style="margin-right: 10px; margin-bottom: 10px;" width="30%"> 
+ <img src="https://github.com/user-attachments/assets/97d93e80-eef3-41b4-a015-71e2cdc94056" alt="Image 1" style="margin-right: 10px; margin-bottom: 10px;" width="30%"> 
+ <img src="https://github.com/user-attachments/assets/df54ca7b-7962-4613-8436-0f3f70539afc" alt="Image 1" style="margin-right: 10px; margin-bottom: 10px;"width="30%"> 
+  </p>
+  
+<p>
+<img src="https://github.com/user-attachments/assets/fb5d35b0-af44-4517-9be8-e681b6ad78a4" alt="Image 1" style="margin-right: 10px; margin-bottom: 10px;" width="30%"> 
+ <img src="https://github.com/user-attachments/assets/18d5b4cf-3404-474b-861b-0658b078e529" alt="Image 1" style="margin-right: 10px; margin-bottom: 10px;" width="30%"> 
+  </p>
 
 # Home Learning Academy 🎓
 
